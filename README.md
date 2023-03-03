@@ -1,1 +1,1 @@
-# curius-me (Nome Provisório)
+# curious-me (Nome Provisório)
